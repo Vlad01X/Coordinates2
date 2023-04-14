@@ -1,7 +1,7 @@
 .body {
     width: 1366px;
     height: 768px;
-    background-image: url(/1502191-parkour-pictures-wallpaper-1920x1080-hd-1080p.jpg);
+    background-image: url(./1502191-parkour-pictures-wallpaper-1920x1080-hd-1080p.jpg);
     margin: auto;
     display: flex;
 }
@@ -10,7 +10,7 @@
     padding: 0;
 }
 .window {
-    width: 315px;
+    width: 320px;
     height: 200px;
     background-color: black;
     border-radius: 10px;
